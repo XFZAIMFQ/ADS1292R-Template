@@ -6,17 +6,17 @@
 
 
 **PCB**
-![PCB](/img/img1.png)
+![PCB](/Img/img1.png)
 
 
 
 **3D**
-![3D](/img/img2.png)
+![3D](/Img/img2.png)
 
 
 
 **Rendering**
-![Rendering](/img/img3.png)
+![Rendering](/Img/img3.png)
 
 
 
